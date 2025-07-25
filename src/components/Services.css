@@ -1,0 +1,8 @@
+.services {
+  background: #fff;
+  padding: 40px;
+}
+.services ul {
+  list-style: disc;
+  padding-left: 20px;
+}
